@@ -1,7 +1,7 @@
 {
   "name": "interpolatejs",
   "main": "index.proto.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "zoh <zoh@bk.ru>"
   ],
