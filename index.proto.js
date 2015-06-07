@@ -33,4 +33,4 @@
     var data = Array.prototype.slice.call(arguments);
     return interpolate.apply(null, [this.toString()].concat(data))
   };
-})(module || window);
+})((typeof module !== "undefined" && module) || window);

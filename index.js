@@ -27,4 +27,4 @@
     }
     return string;
   }
-})(module || window);
+})((typeof module !== "undefined" && module) || window);
