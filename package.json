@@ -2,7 +2,7 @@
   "name": "interpolatejs",
   "version": "1.0.1",
   "description": "interpolate string values for javascript",
-  "main": "index.js",
+  "main": "index.proto.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
