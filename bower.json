@@ -1,0 +1,24 @@
+{
+  "name": "interpolatejs",
+  "main": "index.proto.js",
+  "version": "1.0.0",
+  "authors": [
+    "zoh <zoh@bk.ru>"
+  ],
+  "description": "interpolate, string",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "interpolate",
+    "string"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "interpolatejs",
+  "version": "1.0.0",
+  "description": "interpolate string values for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "javascript",
+    "interpolate"
+  ],
+  "author": "zoh",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
